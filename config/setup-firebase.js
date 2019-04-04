@@ -26,7 +26,7 @@ export function setupFirebase(vm, firebaseConfig, initFn) {
             console.log('Firebase init successful.', instance);
 
             if (typeof initFn === 'function') {
-                initFn();
+                initFn(vm);
             }
         })
         .catch(error => {
