@@ -1,0 +1,29 @@
+{
+    "name": "nativescript-common",
+    "version": "1.0.0",
+    "description": "NativeScript common library.",
+    "homepage": "https://github.com/mehyaa/nativescript-common",
+    "repository": "github:mehyaa/nativescript-common",
+    "author": {
+        "name": "mehyaa",
+        "email": "mehyaa@gmail.com",
+        "url": "http://www.mehyaa.com"
+    },
+    "private": true,
+    "scripts": {
+    },
+    "dependencies": {
+        "@mehyaa/javascript-common": "mehyaa/javascript-common",
+        "@mehyaa/vue-common": "mehyaa/vue-common",
+        "@vue/devtools": "^5.0.6",
+        "nativescript-fonticon": "^2.0.0",
+        "nativescript-material-icons": "^1.0.3",
+        "nativescript-plugin-firebase": "^8.1.1",
+        "nativescript-toasty": "^1.3.0",
+        "nativescript-vue": "^2.2.0",
+        "nativescript-vue-devtools": "^1.2.0",
+        "tns-core-modules": "^5.3.1"
+    },
+    "devDependencies": {
+    }
+}
