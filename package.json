@@ -1,7 +1,7 @@
 {
     "name": "nativescript-common",
     "version": "1.0.0",
-    "description": "NativeScript common library.",
+    "description": "Miscellaneous NativeScript utilities for general use.",
     "homepage": "https://github.com/mehyaa/nativescript-common",
     "repository": "github:mehyaa/nativescript-common",
     "author": {
@@ -9,7 +9,7 @@
         "email": "mehyaa@gmail.com",
         "url": "http://www.mehyaa.com"
     },
-    "private": true,
+    "license" : "GPL-3.0-or-later",
     "scripts": {
     },
     "dependencies": {
