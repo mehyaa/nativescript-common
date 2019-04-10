@@ -4,14 +4,16 @@
     "description": "Miscellaneous NativeScript utilities for general use.",
     "homepage": "https://github.com/mehyaa/nativescript-common",
     "repository": "github:mehyaa/nativescript-common",
+    "publishConfig": {
+        "access": "public"
+    },
     "author": {
         "name": "mehyaa",
         "email": "mehyaa@gmail.com",
-        "url": "http://www.mehyaa.com"
+        "url": "https://github.com/mehyaa"
     },
-    "license" : "GPL-3.0-or-later",
-    "scripts": {
-    },
+    "license": "GPL-3.0-or-later",
+    "scripts": {},
     "dependencies": {
         "@mehyaa/javascript-common": "mehyaa/javascript-common",
         "@mehyaa/vue-common": "mehyaa/vue-common",
@@ -24,6 +26,5 @@
         "nativescript-vue-devtools": "^1.2.0",
         "tns-core-modules": "^5.3.1"
     },
-    "devDependencies": {
-    }
+    "devDependencies": {}
 }
