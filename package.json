@@ -26,5 +26,7 @@
         "nativescript-vue-devtools": "^1.2.0",
         "tns-core-modules": "^5.3.1"
     },
-    "devDependencies": {}
+    "devDependencies": {
+        "nativescript": "^5.3.1"
+    }
 }
