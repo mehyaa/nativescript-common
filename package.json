@@ -15,8 +15,8 @@
     "license": "GPL-3.0-or-later",
     "scripts": {},
     "dependencies": {
-        "@mehyaa/javascript-common": "mehyaa/javascript-common",
-        "@mehyaa/vue-common": "mehyaa/vue-common",
+        "@mehyaa/javascript-common": "^1.0.0",
+        "@mehyaa/vue-common": "^1.0.0",
         "@vue/devtools": "^5.0.6",
         "nativescript-fonticon": "^2.0.0",
         "nativescript-material-icons": "^1.0.3",
